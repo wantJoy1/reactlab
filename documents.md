@@ -32,3 +32,6 @@ https://ja.wikipedia.org/wiki/WebAssembly
 > C・Rust など様々なプログラミング言語のコンパイルターゲットとして Wasm バイナリは生成され、ウェブブラウザを含む様々な環境内のスタックベース仮想マシンにより実行される。
 
 Babel は新仕様の JS コードを旧仕様の JS コードに変換するツール
+
+Vite を使う理由
+https://ja.vitejs.dev/guide/why.html
