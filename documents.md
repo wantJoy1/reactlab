@@ -35,3 +35,6 @@ Babel は新仕様の JS コードを旧仕様の JS コードに変換するツ
 
 Vite を使う理由
 https://ja.vitejs.dev/guide/why.html
+
+> Vite は、esbuild を使用して依存関係の事前バンドルを行います。esbuild は Go 言語によって開発されており、依存関係の事前バンドルは、JavaScript ベースよりも 10 倍から 100 倍高速です。
+
