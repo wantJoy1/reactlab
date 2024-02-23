@@ -7,6 +7,12 @@ https://ja.react.dev/learn/tutorial-tic-tac-toe
 Thinking in React
 https://ja.react.dev/learn/thinking-in-react
 
+- ステップ 1：UI をコンポーネントの階層に分割する 
+- ステップ 2: React で静的なバージョンを作成する 
+- ステップ 3：UI の状態を最小限かつ完全に表現する方法を見つける
+- ステップ 4：state を保持すべき場所を特定する  
+- ステップ 5：逆方向のデータフローを追加する 
+
 Survival TypeScript
 https://typescriptbook.jp/
 
